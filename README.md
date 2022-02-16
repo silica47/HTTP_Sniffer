@@ -4,7 +4,7 @@ A simple HTTP Sniffer to sniff HTTP packets.
 
 ### _Installing HTTP Sniffer:_
 ```
-git clone https://github.com/suryaXsingh/HTTP_Sniffer/
+git clone https://github.com/dogemon/HTTP_Sniffer/
 cd HTTP_Sniffer
 pip install -r requirements.txt
 ```
